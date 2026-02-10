@@ -39,9 +39,6 @@ I lead and mentor teams to deliver high-quality software with strong technical f
 🛰️ **Networking & Automation:**  
 `Cisco Meraki` `Viptela` `VMware VeloCloud`
 
-🛰️ **Networking & Automation:**  
-`Cisco Meraki` `Viptela` `VMware VeloCloud`
-
 🤖 **AI & Development Assistants:**  
 `Claude Code` `GitHub Copilot` `Codex`
 
