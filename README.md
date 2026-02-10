@@ -4,7 +4,7 @@
 
 ---
 
-🌟 With **17+ years of experience** in software development, I specialize in designing, implementing, and operating **scalable, secure systems** that meet business goals and delight users.  
+🌟 With **18+ years of experience** in software development, I specialize in designing, implementing, and operating **scalable, secure systems** that meet business goals and delight users.  
 I lead and mentor teams to deliver high-quality software with strong technical foundations and an agile mindset.
 
 🧰 **Core Expertise:**
